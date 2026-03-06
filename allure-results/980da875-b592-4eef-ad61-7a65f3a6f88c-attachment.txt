@@ -1,0 +1,3 @@
+2026-03-06 12:18:54 [info]: Iniciando proceso de login...
+2026-03-06 12:18:54 [info]: Login realizado con éxito
+2026-03-06 12:18:54 [info]: Verificando que el título del inventory esté presente.

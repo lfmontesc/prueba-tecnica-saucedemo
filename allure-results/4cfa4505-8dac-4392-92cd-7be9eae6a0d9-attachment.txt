@@ -1,0 +1,4 @@
+2026-03-06 12:21:42 [info]: Iniciando proceso de login...
+2026-03-06 12:21:42 [info]: Login realizado con éxito
+2026-03-06 12:21:42 [info]: Verificando que el título del inventory esté presente.
+2026-03-06 12:21:42 [error]: El título del inventory page no coincide. Esperado: "Proucts", pero se obtuvo: "Products"

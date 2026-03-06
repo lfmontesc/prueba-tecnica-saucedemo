@@ -1,0 +1,62 @@
+2026-03-06 11:26:39 [INFO]: --- LOGIN PROCESS ---
+2026-03-06 11:28:41 [INFO]: Iniciando proceso de login...
+2026-03-06 11:28:41 [INFO]: Login realizado con éxito
+2026-03-06 11:29:13 [INFO]: Iniciando proceso de login...
+2026-03-06 11:29:17 [INFO]: Login realizado con éxito
+2026-03-06 11:31:08 [INFO]: Iniciando proceso de login...
+2026-03-06 11:31:08 [INFO]: Login realizado con éxito
+2026-03-06 11:31:28 [INFO]: Iniciando proceso de login...
+2026-03-06 11:31:35 [INFO]: Login realizado con éxito
+2026-03-06 12:15:17 [INFO]: Iniciando proceso de login...
+2026-03-06 12:15:17 [INFO]: Login realizado con éxito
+2026-03-06 12:18:54 [INFO]: Iniciando proceso de login...
+2026-03-06 12:18:54 [INFO]: Login realizado con éxito
+2026-03-06 12:18:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 12:21:32 [INFO]: Iniciando proceso de login...
+2026-03-06 12:21:32 [INFO]: Login realizado con éxito
+2026-03-06 12:21:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 12:21:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 12:21:42 [INFO]: Iniciando proceso de login...
+2026-03-06 12:21:42 [INFO]: Login realizado con éxito
+2026-03-06 12:21:42 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 12:21:42 [ERROR]: El título del inventory page no coincide. Esperado: "Proucts", pero se obtuvo: "Products"
+2026-03-06 13:16:08 [INFO]: Iniciando proceso de login...
+2026-03-06 13:16:09 [INFO]: Login realizado con éxito
+2026-03-06 13:16:09 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:16:09 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:20:03 [INFO]: Iniciando proceso de login...
+2026-03-06 13:20:09 [INFO]: Login realizado con éxito
+2026-03-06 13:20:09 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:20:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:34:33 [INFO]: 
+2026-03-06 13:34:33 [INFO]: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2026-03-06 13:34:41 [INFO]: Iniciando proceso de login...
+2026-03-06 13:34:42 [INFO]: Login realizado con éxito
+2026-03-06 13:34:42 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:34:42 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:35:23 [INFO]: productsFromPage
+2026-03-06 13:35:23 [INFO]: ProductsFromjson
+2026-03-06 13:35:23 [INFO]: Iniciando proceso de login...
+2026-03-06 13:35:24 [INFO]: Login realizado con éxito
+2026-03-06 13:35:24 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:35:24 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:41:06 [INFO]: Iniciando proceso de login...
+2026-03-06 13:41:06 [INFO]: Login realizado con éxito
+2026-03-06 13:41:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:41:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:44:39 [INFO]: Iniciando proceso de login...
+2026-03-06 13:44:39 [INFO]: Login realizado con éxito
+2026-03-06 13:44:39 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:44:39 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:45:43 [INFO]: Iniciando proceso de login...
+2026-03-06 13:45:43 [INFO]: Login realizado con éxito
+2026-03-06 13:45:43 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:45:43 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:46:14 [INFO]: Iniciando proceso de login...
+2026-03-06 13:46:19 [INFO]: Login realizado con éxito
+2026-03-06 13:46:19 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:46:37 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 13:49:39 [INFO]: Iniciando proceso de login...
+2026-03-06 13:49:41 [INFO]: Login realizado con éxito
+2026-03-06 13:49:41 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 13:49:41 [INFO]: Título del Inventory Page validado: "Products"
