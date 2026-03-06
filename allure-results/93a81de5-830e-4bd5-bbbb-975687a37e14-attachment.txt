@@ -1,0 +1,7 @@
+2026-03-06 17:42:06 [info]: Iniciando proceso de login...
+2026-03-06 17:42:06 [info]: Login realizado con éxito
+2026-03-06 17:42:06 [info]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [info]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [info]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:06 [info]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:06 [info]: Producto "Sauce Labs Fleece Jacket" removido del carrito.

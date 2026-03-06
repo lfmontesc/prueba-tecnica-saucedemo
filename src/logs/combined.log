@@ -60,3 +60,435 @@
 2026-03-06 13:49:41 [INFO]: Login realizado con éxito
 2026-03-06 13:49:41 [INFO]: Verificando que el título del inventory esté presente.
 2026-03-06 13:49:41 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:12:47 [INFO]: Iniciando proceso de login...
+2026-03-06 14:12:48 [INFO]: Login realizado con éxito
+2026-03-06 14:12:48 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:12:48 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: ProductName
+2026-03-06 14:12:48 [INFO]: price
+2026-03-06 14:12:48 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 14:13:30 [INFO]: Iniciando proceso de login...
+2026-03-06 14:13:38 [INFO]: Login realizado con éxito
+2026-03-06 14:13:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:13:41 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:13:54 [INFO]: ProductName
+2026-03-06 14:13:54 [INFO]: price
+2026-03-06 14:13:55 [INFO]: ProductName
+2026-03-06 14:13:55 [INFO]: price
+2026-03-06 14:13:57 [INFO]: ProductName
+2026-03-06 14:13:57 [INFO]: price
+2026-03-06 14:13:59 [INFO]: ProductName
+2026-03-06 14:13:59 [INFO]: price
+2026-03-06 14:14:01 [INFO]: ProductName
+2026-03-06 14:14:01 [INFO]: price
+2026-03-06 14:14:04 [INFO]: ProductName
+2026-03-06 14:14:04 [INFO]: price
+2026-03-06 14:14:04 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 14:14:23 [INFO]: Iniciando proceso de login...
+2026-03-06 14:14:33 [INFO]: Login realizado con éxito
+2026-03-06 14:14:33 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:14:33 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:14:34 [INFO]: ProductName
+2026-03-06 14:14:34 [INFO]: price
+2026-03-06 14:14:35 [INFO]: ProductName
+2026-03-06 14:14:35 [INFO]: price
+2026-03-06 14:14:35 [INFO]: ProductName
+2026-03-06 14:14:35 [INFO]: price
+2026-03-06 14:14:35 [INFO]: ProductName
+2026-03-06 14:14:35 [INFO]: price
+2026-03-06 14:14:35 [INFO]: ProductName
+2026-03-06 14:14:35 [INFO]: price
+2026-03-06 14:14:35 [INFO]: ProductName
+2026-03-06 14:14:36 [INFO]: price
+2026-03-06 14:14:36 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 14:14:46 [INFO]: Iniciando proceso de login...
+2026-03-06 14:14:47 [INFO]: Login realizado con éxito
+2026-03-06 14:14:47 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:14:47 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: ProductName
+2026-03-06 14:14:47 [INFO]: price
+2026-03-06 14:14:47 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 14:38:15 [INFO]: Iniciando proceso de login...
+2026-03-06 14:38:20 [INFO]: Login realizado con éxito
+2026-03-06 14:38:20 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:38:21 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:38:29 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 14:38:39 [INFO]: Iniciando proceso de login...
+2026-03-06 14:38:43 [INFO]: Login realizado con éxito
+2026-03-06 14:38:43 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:38:43 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:40:44 [INFO]: Iniciando proceso de login...
+2026-03-06 14:40:44 [INFO]: Iniciando proceso de login...
+2026-03-06 14:40:44 [INFO]: Iniciando proceso de login...
+2026-03-06 14:40:44 [INFO]: Login realizado con éxito
+2026-03-06 14:40:44 [INFO]: Login realizado con éxito
+2026-03-06 14:40:44 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:40:44 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:40:44 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:40:44 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:40:44 [INFO]: Login realizado con éxito
+2026-03-06 14:40:44 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 14:40:44 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 14:40:44 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:16:38 [INFO]: Iniciando proceso de login...
+2026-03-06 15:16:38 [INFO]: Iniciando proceso de login...
+2026-03-06 15:16:38 [INFO]: Iniciando proceso de login...
+2026-03-06 15:16:38 [INFO]: Iniciando proceso de login...
+2026-03-06 15:16:38 [INFO]: Login realizado con éxito
+2026-03-06 15:16:38 [INFO]: Login realizado con éxito
+2026-03-06 15:16:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:16:38 [INFO]: Login realizado con éxito
+2026-03-06 15:16:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:16:38 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:16:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:16:38 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:16:38 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:16:38 [INFO]: Login realizado con éxito
+2026-03-06 15:16:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:16:38 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:16:38 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:16:38 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:16:38 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:17:12 [INFO]: Iniciando proceso de login...
+2026-03-06 15:17:15 [INFO]: Login realizado con éxito
+2026-03-06 15:17:15 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:17:15 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:17:25 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:17:30 [INFO]: Iniciando proceso de login...
+2026-03-06 15:17:34 [INFO]: Login realizado con éxito
+2026-03-06 15:17:34 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:17:38 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:17:52 [INFO]: Iniciando proceso de login...
+2026-03-06 15:17:54 [INFO]: Login realizado con éxito
+2026-03-06 15:17:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:17:57 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:18:15 [INFO]: Iniciando proceso de login...
+2026-03-06 15:18:38 [INFO]: Login realizado con éxito
+2026-03-06 15:18:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:18:39 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:18:42 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:18:47 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:41:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:41:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:41:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:41:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:41:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:41:36 [INFO]: Login realizado con éxito
+2026-03-06 15:41:36 [INFO]: Login realizado con éxito
+2026-03-06 15:41:36 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:41:36 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:41:36 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:41:36 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:41:36 [INFO]: Login realizado con éxito
+2026-03-06 15:41:36 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:41:36 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:41:36 [INFO]: Login realizado con éxito
+2026-03-06 15:41:36 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:41:36 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:41:36 [INFO]: Login realizado con éxito
+2026-03-06 15:41:36 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:41:36 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:41:36 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:41:36 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:41:36 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:43:34 [INFO]: Iniciando proceso de login...
+2026-03-06 15:43:38 [INFO]: Login realizado con éxito
+2026-03-06 15:43:38 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:43:40 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:36 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:39 [INFO]: Login realizado con éxito
+2026-03-06 15:44:39 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:40 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:41 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:44:42 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:44:44 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 15:44:58 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:58 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:58 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:58 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:58 [INFO]: Login realizado con éxito
+2026-03-06 15:44:58 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:58 [INFO]: Login realizado con éxito
+2026-03-06 15:44:58 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:58 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:58 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:58 [INFO]: Login realizado con éxito
+2026-03-06 15:44:58 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:58 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:58 [INFO]: Login realizado con éxito
+2026-03-06 15:44:58 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:58 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:58 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:44:58 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:44:58 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:44:58 [INFO]: Iniciando proceso de login...
+2026-03-06 15:44:59 [INFO]: Login realizado con éxito
+2026-03-06 15:44:59 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:59 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:44:59 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:44:59 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:44:59 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 15:55:54 [INFO]: Iniciando proceso de login...
+2026-03-06 15:55:54 [INFO]: Iniciando proceso de login...
+2026-03-06 15:55:54 [INFO]: Iniciando proceso de login...
+2026-03-06 15:55:54 [INFO]: Iniciando proceso de login...
+2026-03-06 15:55:54 [INFO]: Iniciando proceso de login...
+2026-03-06 15:55:54 [INFO]: Login realizado con éxito
+2026-03-06 15:55:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:55:54 [INFO]: Login realizado con éxito
+2026-03-06 15:55:54 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:55:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:55:54 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:55:54 [INFO]: Login realizado con éxito
+2026-03-06 15:55:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:55:54 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:55:54 [INFO]: Login realizado con éxito
+2026-03-06 15:55:54 [INFO]: Login realizado con éxito
+2026-03-06 15:55:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:55:54 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:55:54 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 15:55:54 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 15:55:54 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:55:54 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 15:55:54 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 15:55:54 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:55:54 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 15:55:54 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 16:24:16 [INFO]: Iniciando proceso de login...
+2026-03-06 16:24:16 [INFO]: Login realizado con éxito
+2026-03-06 16:24:16 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:24:16 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:24:16 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:24:16 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 16:31:43 [INFO]: Iniciando proceso de login...
+2026-03-06 16:31:43 [INFO]: Login realizado con éxito
+2026-03-06 16:31:43 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:31:43 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:31:43 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:31:43 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 16:32:02 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:05 [INFO]: Login realizado con éxito
+2026-03-06 16:32:05 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:05 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:06 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:32:06 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 16:32:31 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:31 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:31 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:31 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:32 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:32 [INFO]: Iniciando proceso de login...
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Login realizado con éxito
+2026-03-06 16:32:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 16:32:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 16:32:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:02:16 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:16 [INFO]: Login realizado con éxito
+2026-03-06 17:02:16 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:16 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:16 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:17 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:17 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:17 [INFO]: Iniciando proceso de login...
+2026-03-06 17:02:17 [INFO]: Login realizado con éxito
+2026-03-06 17:02:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Login realizado con éxito
+2026-03-06 17:02:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Login realizado con éxito
+2026-03-06 17:02:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Login realizado con éxito
+2026-03-06 17:02:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Login realizado con éxito
+2026-03-06 17:02:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:02:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:02:17 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 17:02:17 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 17:30:18 [INFO]: Iniciando proceso de login...
+2026-03-06 17:30:18 [INFO]: Login realizado con éxito
+2026-03-06 17:30:18 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:30:18 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:30:18 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:30:18 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:38:25 [INFO]: Iniciando proceso de login...
+2026-03-06 17:38:25 [INFO]: Login realizado con éxito
+2026-03-06 17:38:25 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:38:25 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:05 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:05 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:05 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:05 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:05 [INFO]: Login realizado con éxito
+2026-03-06 17:42:05 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:05 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:05 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:06 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:06 [INFO]: Login realizado con éxito
+2026-03-06 17:42:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [INFO]: Login realizado con éxito
+2026-03-06 17:42:06 [INFO]: Login realizado con éxito
+2026-03-06 17:42:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:06 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:06 [INFO]: Login realizado con éxito
+2026-03-06 17:42:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 17:42:06 [INFO]: Login realizado con éxito
+2026-03-06 17:42:06 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:06 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:06 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:07 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:07 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:08 [INFO]: Login realizado con éxito
+2026-03-06 17:42:08 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:08 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:08 [INFO]: Login realizado con éxito
+2026-03-06 17:42:08 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:08 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:08 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:08 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:16 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:16 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:16 [INFO]: Login realizado con éxito
+2026-03-06 17:42:16 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:17 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:17 [INFO]: Login realizado con éxito
+2026-03-06 17:42:17 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:17 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:17 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:17 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:17 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 17:42:17 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:17 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:18 [INFO]: Login realizado con éxito
+2026-03-06 17:42:18 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:18 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:18 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:19 [INFO]: Login realizado con éxito
+2026-03-06 17:42:19 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:19 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:19 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:19 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:20 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:21 [INFO]: Login realizado con éxito
+2026-03-06 17:42:21 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:21 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:21 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:21 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 17:42:21 [INFO]: Login realizado con éxito
+2026-03-06 17:42:21 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:21 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:26 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:27 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:27 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:27 [INFO]: Login realizado con éxito
+2026-03-06 17:42:27 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:27 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:28 [INFO]: Todos los productos coinciden con los del JSON
+2026-03-06 17:42:28 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:28 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:28 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:28 [INFO]: Login realizado con éxito
+2026-03-06 17:42:28 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:28 [INFO]: Login realizado con éxito
+2026-03-06 17:42:28 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:29 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:29 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:29 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:29 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:29 [INFO]: Login realizado con éxito
+2026-03-06 17:42:29 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:29 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:29 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:30 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:30 [INFO]: Login realizado con éxito
+2026-03-06 17:42:30 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:30 [INFO]: Login realizado con éxito
+2026-03-06 17:42:30 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:30 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:30 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:30 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:30 [INFO]: Login realizado con éxito
+2026-03-06 17:42:30 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:30 [INFO]: Login realizado con éxito
+2026-03-06 17:42:30 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:31 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:31 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:31 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:31 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:31 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:31 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:31 [INFO]: Iniciando proceso de login...
+2026-03-06 17:42:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:32 [INFO]: Login realizado con éxito
+2026-03-06 17:42:32 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:32 [INFO]: Título del Inventory Page validado: "Products"
+2026-03-06 17:42:32 [INFO]: Producto "Sauce Labs Fleece Jacket" removido del carrito.
+2026-03-06 17:42:32 [INFO]: Producto "Sauce Labs Backpack" agregado al carrito.
+2026-03-06 17:42:32 [INFO]: Producto "Sauce Labs Fleece Jacket" agregado al carrito.
+2026-03-06 17:42:33 [INFO]: Login realizado con éxito
+2026-03-06 17:42:33 [INFO]: Verificando que el título del inventory esté presente.
+2026-03-06 17:42:33 [INFO]: Título del Inventory Page validado: "Products"

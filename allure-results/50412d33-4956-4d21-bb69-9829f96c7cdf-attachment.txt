@@ -1,0 +1,17 @@
+2026-03-06 14:12:47 [info]: Iniciando proceso de login...
+2026-03-06 14:12:48 [info]: Login realizado con éxito
+2026-03-06 14:12:48 [info]: Verificando que el título del inventory esté presente.
+2026-03-06 14:12:48 [info]: Título del Inventory Page validado: "Products"
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: ProductName
+2026-03-06 14:12:48 [info]: price
+2026-03-06 14:12:48 [info]: Todos los productos coinciden con los del JSON

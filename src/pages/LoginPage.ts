@@ -1,4 +1,4 @@
-import { Locator, Page } from "@playwright/test";
+import { expect, Locator, Page } from "@playwright/test";
 import { waitForVisibleAndEnabled  } from "@utils/elementUtils";
 import { logger } from "@utils/logger";
 
@@ -7,12 +7,14 @@ export class LoginPage {
   readonly inputUsername: Locator;
   readonly inputPassword: Locator;
   readonly btnLogin: Locator;
+  readonly labelErrorMessage: Locator;
 
   constructor(page: Page) {
     this.page = page;
     this.inputUsername = page.locator("[data-test='username']");
     this.inputPassword = page.locator("[data-test='password']");
     this.btnLogin = page.locator("[data-test='login-button']");
+    this.labelErrorMessage = page.locator("[data-test='error']");
   }
 
   async loginToThePage(username: string, password: string) {
@@ -26,5 +28,24 @@ export class LoginPage {
     await waitForVisibleAndEnabled(this.btnLogin);
     await this.btnLogin.click();
     logger.info("Login realizado con éxito");
+  }
+
+  async clickOnLogin() {
+    await this.btnLogin.click();
+  }
+
+  async fillForm(username: string, password: string) {
+    await waitForVisibleAndEnabled(this.inputUsername);
+    await this.inputUsername.fill(username);
+
+    await waitForVisibleAndEnabled(this.inputPassword);
+    await this.inputPassword.fill(password);
+
+    await waitForVisibleAndEnabled(this.btnLogin);
+    await this.btnLogin.click();
+  }
+
+  async validateErrorMessage(message: string) {
+    await expect(this.labelErrorMessage).toContainText(message);
   }
 }

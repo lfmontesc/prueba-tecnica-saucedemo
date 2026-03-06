@@ -1,0 +1,5 @@
+2026-03-06 15:44:58 [info]: Iniciando proceso de login...
+2026-03-06 15:44:58 [info]: Login realizado con éxito
+2026-03-06 15:44:58 [info]: Verificando que el título del inventory esté presente.
+2026-03-06 15:44:58 [info]: Título del Inventory Page validado: "Products"
+Productos validados correctamente en orden descendente.
